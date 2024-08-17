@@ -1,0 +1,37 @@
+.user-list {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    max-width: 600px;
+    margin: auto;
+    background-color: #f4f4f4;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.user-list h1 {
+    text-align: center;
+    color: #333;
+}
+
+.user-list ul {
+    list-style: none;
+    padding: 0;
+}
+
+.user-list li {
+    background: #fff;
+    margin-bottom: 10px;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.user-list li h2 {
+    margin: 0;
+    color: #333;
+}
+
+.user-list li p {
+    margin: 5px 0 0;
+    color: #666;
+}
